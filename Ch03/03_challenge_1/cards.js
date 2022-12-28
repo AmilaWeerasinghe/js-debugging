@@ -154,7 +154,7 @@
 
     deck = shuffle(deck);
 
-    return deck.slice(handSize);
+    return deck.slice(0 , handSize); // refer the array.slice
   }
 
   /**
