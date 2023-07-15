@@ -1,5 +1,5 @@
 # js-debugging
 Memorize js debugging
 
-### will contain things to master JS debugging
+### contains fundamentals to master JS debugging. This is one of the LinkedIn courses i completed.
 
